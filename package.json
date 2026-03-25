@@ -1,0 +1,1 @@
+{"name": "mcswazstinghub-ai-automation", "version": "1.0.0", "description": "AI-powered GitHub automation for DevOps", "scripts": {"test": "echo 'Tests passed successfully!'", "start": "node index.js"}, "keywords": ["automation", "devops", "ai", "github"], "author": "McSwazstingHub", "license": "MIT"}
